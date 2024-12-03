@@ -7,6 +7,9 @@ class Database():
 
   def __del__(self):
     pass
+
+  def __str__(self):
+    pass
     
   def search(self):
     pass
