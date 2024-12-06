@@ -1,7 +1,7 @@
 # w11-group-coding
 ## Contributors: 
 - Darren A.
-
+- Nicholas K.
 ___
 
 idk what else to write here but feel free to put your name and,<br> 
